@@ -1,0 +1,333 @@
+{
+  "documents": {
+    "f438d2e91f13f5b2b068e37b921034133eb625fc4977a681b38f6844839719ed": {
+      "filename": "01_PUBLICO_Apresentacao_Institucional_NexaGrid.docx",
+      "classificacao": "publico",
+      "created_at": "2026-07-28T21:36:01.851704+00:00",
+      "updated_at": "2026-07-28T21:36:01.851704+00:00",
+      "chunk_count": 3,
+      "active": true,
+      "use_in_generation": true,
+      "version": "2026.1",
+      "data_documento": "2026-01-10",
+      "valido_ate": null,
+      "source_type": "apresentacao"
+    },
+    "b0540a15ce84a0f80648d96b9501a6339dc53eb3310eb248b3d79027f0907e3e": {
+      "filename": "02_PUBLICO_Catalogo_Servicos_NexaGrid_2026.docx",
+      "classificacao": "publico",
+      "created_at": "2026-07-28T21:36:40.550945+00:00",
+      "updated_at": "2026-07-28T21:36:40.550945+00:00",
+      "chunk_count": 4,
+      "active": true,
+      "use_in_generation": true,
+      "version": "2026.1",
+      "data_documento": "2026-01-15",
+      "valido_ate": null,
+      "source_type": "portfolio"
+    },
+    "bbc90a09871eca8f9e44013776213ea926a1deccd47e6ed3ce729e6829aeece6": {
+      "filename": "03_PUBLICO_Case_Autorizado_Solare_Energia.docx",
+      "classificacao": "publico",
+      "created_at": "2026-07-28T21:37:32.306575+00:00",
+      "updated_at": "2026-07-28T21:37:32.306575+00:00",
+      "chunk_count": 3,
+      "active": true,
+      "use_in_generation": true,
+      "version": "1.0",
+      "data_documento": "2026-02-20",
+      "valido_ate": null,
+      "source_type": "case"
+    },
+    "9a9e6c48946fe99b6ca580a9c2ed1342eaf65ed3ac5ae9ba0d10a4160c882226": {
+      "filename": "04_INTERNO_FAQ_Tecnica_e_Limites_NexaGrid.docx",
+      "classificacao": "publico",
+      "created_at": "2026-07-28T21:38:24.527327+00:00",
+      "updated_at": "2026-07-28T21:38:24.527327+00:00",
+      "chunk_count": 3,
+      "active": true,
+      "use_in_generation": true,
+      "version": "2026.2",
+      "data_documento": "2026-03-26",
+      "valido_ate": null,
+      "source_type": "faq_tecnica"
+    },
+    "56d6f16acd45d70b5807ef025cf516a38a4327fa849f428d5c6a4c26ade30ecd": {
+      "filename": "05_INTERNO_Proposta_Modelo_Integracao_e_Dados.docx",
+      "classificacao": "interno_nao_sensivel",
+      "created_at": "2026-07-28T21:39:30.096803+00:00",
+      "updated_at": "2026-07-28T21:39:30.096803+00:00",
+      "chunk_count": 3,
+      "active": true,
+      "use_in_generation": true,
+      "version": "3.0",
+      "data_documento": "2026-03-12",
+      "valido_ate": null,
+      "source_type": "proposta_modelo"
+    },
+    "1b0a0768b116714eacb7ae2cd4ed05356aa78e5c06f91239dedaf817ccb1b842": {
+      "filename": "06_INTERNO_Matriz_Objeções_e_Perguntas_Comerciais.docx",
+      "classificacao": "interno_nao_sensivel",
+      "created_at": "2026-07-28T21:40:35.236479+00:00",
+      "updated_at": "2026-07-28T21:40:35.236479+00:00",
+      "chunk_count": 3,
+      "active": true,
+      "use_in_generation": true,
+      "version": "2026.1",
+      "data_documento": "2026-03-18",
+      "valido_ate": null,
+      "source_type": "outro"
+    },
+    "d62e6c656f511068467ad93897e8d925c1dd86870aa4aabab4d46aa06c477071": {
+      "filename": "07_INTERNO_Diagnostico_Preliminar_Aurora_Energia.docx",
+      "classificacao": "interno_nao_sensivel",
+      "created_at": "2026-07-28T21:41:08.595342+00:00",
+      "updated_at": "2026-07-28T21:41:08.595342+00:00",
+      "chunk_count": 4,
+      "active": true,
+      "use_in_generation": true,
+      "version": "0.9",
+      "data_documento": "2026-07-10",
+      "valido_ate": null,
+      "source_type": "registro_autorizado"
+    },
+    "070173d27774d3928331c9b57009d688542f99253c6ea38cbde41c82dcc0cfb2": {
+      "filename": "08_INTERNO_Ata_Reuniao_Discovery_Aurora_Energia.txt",
+      "classificacao": "interno_nao_sensivel",
+      "created_at": "2026-07-28T21:41:51.949948+00:00",
+      "updated_at": "2026-07-28T21:41:51.949948+00:00",
+      "chunk_count": 2,
+      "active": true,
+      "use_in_generation": true,
+      "version": "1.0",
+      "data_documento": "2026-07-08",
+      "valido_ate": null,
+      "source_type": "registro_autorizado"
+    },
+    "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d": {
+      "filename": "09_Demonstracao_PROSPECT_LLM.docx",
+      "classificacao": "interno_nao_sensivel",
+      "created_at": "2026-07-28T21:43:28.565875+00:00",
+      "updated_at": "2026-07-28T21:43:28.565875+00:00",
+      "chunk_count": 5,
+      "active": true,
+      "use_in_generation": true,
+      "version": "1.0",
+      "data_documento": "2026-07-28",
+      "valido_ate": null,
+      "source_type": "outro"
+    }
+  },
+  "chunks": [
+    {
+      "id": "f438d2e91f13f5b2b068e37b921034133eb625fc4977a681b38f6844839719ed:0",
+      "document_id": "f438d2e91f13f5b2b068e37b921034133eb625fc4977a681b38f6844839719ed",
+      "filename": "01_PUBLICO_Apresentacao_Institucional_NexaGrid.docx",
+      "classificacao": "publico",
+      "text": "Apresentação Institucional — NexaGrid Tecnologia Posicionamento, segmentos atendidos, método de trabalho e capacidades organizacionais 1. Quem somos A NexaGrid Tecnologia Ltda. é uma empresa fictícia de serviços de tecnologia criada em 2017, com escritórios em Recife e São Paulo. A organização atua em projetos de integração de sistemas, dados, modernização de aplicações, operações em nuvem e alocação de especialistas com governança de projeto. A empresa fictícia possui 118 profissionais e atende organizações de médio e grande porte nos setores de energia, logística, varejo e serviços empresariais. Seu posicionamento é combinar capacidade técnica, diagnóstico de negócio e acompanhamento da adoção das soluções. 2. Posicionamento A NexaGrid atua em problemas que exigem articulação entre processos, sistemas e pessoas. A empresa não inicia projetos pela escolha de uma ferramenta; o trabalho começa pela compreensão do processo atual, das restrições e dos critérios de decisão. A proposta de valor é reduzir fragmentação operacional e ampliar rastreabilidade por meio de integrações, dados confiáveis, aplicações mais adequadas ao trabalho e operação técnica governada. 3. Segmentos e situações atendidas 4. Método de trabalho Diagnóstico: entendimento do processo, dos sistemas, das restrições e das evidências disponíveis."
+    },
+    {
+      "id": "f438d2e91f13f5b2b068e37b921034133eb625fc4977a681b38f6844839719ed:1",
+      "document_id": "f438d2e91f13f5b2b068e37b921034133eb625fc4977a681b38f6844839719ed",
+      "filename": "01_PUBLICO_Apresentacao_Institucional_NexaGrid.docx",
+      "classificacao": "publico",
+      "text": "eração técnica governada. 3. Segmentos e situações atendidas 4. Método de trabalho Diagnóstico: entendimento do processo, dos sistemas, das restrições e das evidências disponíveis. Arquitetura e priorização: definição de alternativas, dependências, riscos e sequência de implantação. Piloto controlado: validação em escopo limitado, com critérios de aceite e métricas definidas. Escala: expansão por ondas, gestão da mudança, documentação e capacitação. Operação e melhoria: monitoramento, gestão de incidentes, evolução e governança. 5. Limites institucionais A NexaGrid não comercializa hardware industrial e não altera firmware de equipamentos de campo. Integrações com ambientes OT/SCADA dependem de gateways, APIs e autorizações do fabricante e do cliente. Atendimento 24x7 não está incluído por padrão e exige contratação específica. Resultados de cases não constituem garantia para novos projetos. Processamento de dados pessoais depende de base legal, contrato, ambiente aprovado e controles definidos. Classificação | Público | Versão | 2026.1 Data do documento | 10/01/2026 | Responsável | Camila Torres — Diretora de Marketing (fictícia) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica"
+    },
+    {
+      "id": "f438d2e91f13f5b2b068e37b921034133eb625fc4977a681b38f6844839719ed:2",
+      "document_id": "f438d2e91f13f5b2b068e37b921034133eb625fc4977a681b38f6844839719ed",
+      "filename": "01_PUBLICO_Apresentacao_Institucional_NexaGrid.docx",
+      "classificacao": "publico",
+      "text": "a do documento | 10/01/2026 | Responsável | Camila Torres — Diretora de Marketing (fictícia) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica Aviso: todos os nomes, empresas, pessoas, sistemas, métricas, datas e resultados deste documento são fictícios e foram criados exclusivamente para demonstrar o PROSPECT-LLM. Indicador institucional | Dado fictício Ano de fundação | 2017 Profissionais | 118 Escritórios | Recife/PE e São Paulo/SP Setores prioritários | Energia, logística, varejo e serviços empresariais Modelo de atuação | Projetos, serviços gerenciados e outsourcing com projeto Idioma de atendimento | Português e inglês Princípio de atuação: Nenhuma proposta deve prometer economia, prazo ou resultado sem diagnóstico, linha de base e confirmação de escopo. Segmento | Situações frequentes Energia e utilities | Integração entre unidades, consolidação de dados operacionais, gestão de ativos e portais internos. Logística | Integração entre TMS, WMS, ERP, rastreamento e indicadores de desempenho. Varejo | Integração de canais, dados de estoque, catálogo, atendimento e analytics. Serviços empresariais | Automação de processos, portais, CRM, dados e sustentação de aplicações."
+    },
+    {
+      "id": "b0540a15ce84a0f80648d96b9501a6339dc53eb3310eb248b3d79027f0907e3e:0",
+      "document_id": "b0540a15ce84a0f80648d96b9501a6339dc53eb3310eb248b3d79027f0907e3e",
+      "filename": "02_PUBLICO_Catalogo_Servicos_NexaGrid_2026.docx",
+      "classificacao": "publico",
+      "text": "Catálogo de Serviços NexaGrid 2026 Serviços, capacidades, entradas, entregáveis, limites e critérios iniciais de aderência 1. Visão geral do portfólio 2. Capacidades tecnológicas 3. Critérios iniciais de aderência Classificação | Público | Versão | 2026.1 Data do documento | 15/01/2026 | Responsável | Rafael Pires — Diretor de Soluções (fictício) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica Aviso: todos os nomes, empresas, pessoas, sistemas, métricas, datas e resultados deste documento são fictícios e foram criados exclusivamente para demonstrar o PROSPECT-LLM. Serviço | Objetivo | Entradas mínimas | Entregáveis típicos | Limites Integration Hub | Integração por APIs, mensageria e eventos | Inventário de sistemas, documentação de interfaces, responsáveis técnicos | Mapa de integrações, APIs, filas, monitoramento e documentação | Não substitui sistemas de origem; acesso depende do cliente DataFlow Analytics | Plataforma de dados, qualidade, lakehouse e BI | Fontes, regras de negócio, amostras e responsáveis pelos dados | Pipelines, catálogo, regras de qualidade, modelos e painéis | Não corrige ausência de governança sem participação das áreas"
+    },
+    {
+      "id": "b0540a15ce84a0f80648d96b9501a6339dc53eb3310eb248b3d79027f0907e3e:1",
+      "document_id": "b0540a15ce84a0f80648d96b9501a6339dc53eb3310eb248b3d79027f0907e3e",
+      "filename": "02_PUBLICO_Catalogo_Servicos_NexaGrid_2026.docx",
+      "classificacao": "publico",
+      "text": "regras de negócio, amostras e responsáveis pelos dados | Pipelines, catálogo, regras de qualidade, modelos e painéis | Não corrige ausência de governança sem participação das áreas CloudOps Managed | Migração, observabilidade, SRE e sustentação | Arquitetura atual, inventário, criticidade e janelas de mudança | Plano de migração, monitoramento, runbooks e operação | 24x7 e recuperação avançada são módulos adicionais SquadFlex Projetos | Alocação de especialistas com backlog e governança | Objetivos, backlog, papéis, tecnologias e critérios de aceite | Squad, cerimônias, métricas, documentação e entregas incrementais | Não é simples fornecimento de mão de obra sem gestão SecureAccess IAM | Identidade, SSO, MFA, perfis e trilhas de auditoria | Diretório, aplicações, perfis, políticas e requisitos regulatórios | Arquitetura IAM, integrações, políticas e relatórios de acesso | Depende da capacidade de integração das aplicações Experience Modernization | Modernização de portais e sistemas internos | Pesquisa com usuários, processos, dados de uso e sistemas envolvidos | Protótipos, design system, aplicação e plano de adoção | Mudança visual isolada não resolve processo ou integração Domínio | Tecnologias e práticas fictícias Integração | REST, GraphQL, mensageria, event streaming, API gateways, ETL/ELT."
+    },
+    {
+      "id": "b0540a15ce84a0f80648d96b9501a6339dc53eb3310eb248b3d79027f0907e3e:2",
+      "document_id": "b0540a15ce84a0f80648d96b9501a6339dc53eb3310eb248b3d79027f0907e3e",
+      "filename": "02_PUBLICO_Catalogo_Servicos_NexaGrid_2026.docx",
+      "classificacao": "publico",
+      "text": "Mudança visual isolada não resolve processo ou integração Domínio | Tecnologias e práticas fictícias Integração | REST, GraphQL, mensageria, event streaming, API gateways, ETL/ELT. Dados | Lakehouse, catálogo, qualidade, modelagem, BI, governança e observabilidade. Aplicações | Java, .NET, Python, Node.js, React, modernização de legados e testes automatizados. Nuvem | Arquitetura multicloud, containers, CI/CD, infraestrutura como código e SRE. Segurança | SSO, MFA, RBAC, auditoria, gestão de segredos e revisão de arquitetura. Gestão | Discovery, roadmaps, gestão de riscos, métricas, documentação e governança de projetos. Sinal observado | Possível serviço aderente | Confirmação necessária Múltiplos sistemas sem troca automática de dados | Integration Hub | Quais interfaces, volumes, frequências e restrições existem? Relatórios consolidados manualmente | DataFlow Analytics | Quais fontes, regras e prazos sustentam o relatório? Incidentes sem monitoramento central | CloudOps Managed | Quais aplicações são críticas e como os incidentes são tratados? Fila de desenvolvimento sem capacidade interna | SquadFlex Projetos | Há backlog, patrocinador, critérios de aceite e responsáveis? Muitos acessos e perfis inconsistentes | SecureAccess IAM | Quais diretórios, aplicações e políticas precisam ser integrados?"
+    },
+    {
+      "id": "b0540a15ce84a0f80648d96b9501a6339dc53eb3310eb248b3d79027f0907e3e:3",
+      "document_id": "b0540a15ce84a0f80648d96b9501a6339dc53eb3310eb248b3d79027f0907e3e",
+      "filename": "02_PUBLICO_Catalogo_Servicos_NexaGrid_2026.docx",
+      "classificacao": "publico",
+      "text": "log, patrocinador, critérios de aceite e responsáveis? Muitos acessos e perfis inconsistentes | SecureAccess IAM | Quais diretórios, aplicações e políticas precisam ser integrados? Usuários exportam dados para planilhas por dificuldade de uso | Experience Modernization | O problema é interface, processo, informação ou integração? Uso no PROSPECT-LLM: Este catálogo pode apoiar a verificação de aderência ao portfólio. O sistema não deve recomendar um serviço que não esteja descrito ou extrapolar seus limites."
+    },
+    {
+      "id": "bbc90a09871eca8f9e44013776213ea926a1deccd47e6ed3ce729e6829aeece6:0",
+      "document_id": "bbc90a09871eca8f9e44013776213ea926a1deccd47e6ed3ce729e6829aeece6",
+      "filename": "03_PUBLICO_Case_Autorizado_Solare_Energia.docx",
+      "classificacao": "publico",
+      "text": "Case Autorizado — Solare Distribuição de Energia Integração de dados operacionais e padronização de relatórios em 14 unidades 1. Contexto A Solare Distribuição de Energia é uma organização fictícia com 14 unidades operacionais distribuídas em três estados. Antes do projeto, seis sistemas e diversas planilhas eram usados para consolidar informações de manutenção, atendimento e desempenho operacional. O relatório executivo mensal exigia coleta manual, validação por e-mail e reconciliação entre códigos de ativos. O processo levava, em média, dois dias úteis e apresentava divergências entre unidades. 2. Problemas confirmados no diagnóstico Códigos de ativos não padronizados entre unidades. Ausência de catálogo central de dados e responsáveis por indicadores. Relatórios mensais produzidos por consolidação de planilhas. Regras de cálculo diferentes para dois indicadores operacionais. Baixa rastreabilidade sobre a origem de alguns números apresentados à diretoria. 3. Solução aplicada Mapeamento das fontes, regras de negócio e responsáveis pelos dados. Criação de camada de integração para cinco sistemas; o sexto permaneceu com carga controlada por arquivo devido à ausência de API. Implementação de lakehouse, catálogo e regras de qualidade. Padronização dos identificadores de ativos em um modelo de referência. Criação de painéis executivos e trilhas de auditoria para os indicadores."
+    },
+    {
+      "id": "bbc90a09871eca8f9e44013776213ea926a1deccd47e6ed3ce729e6829aeece6:1",
+      "document_id": "bbc90a09871eca8f9e44013776213ea926a1deccd47e6ed3ce729e6829aeece6",
+      "filename": "03_PUBLICO_Case_Autorizado_Solare_Energia.docx",
+      "classificacao": "publico",
+      "text": "se, catálogo e regras de qualidade. Padronização dos identificadores de ativos em um modelo de referência. Criação de painéis executivos e trilhas de auditoria para os indicadores. Treinamento de usuários e acompanhamento da adoção durante três meses. 4. Resultados observados após seis meses 5. Aprendizados O principal obstáculo não era a ferramenta de BI, mas a inconsistência das regras e identificadores. Uma fonte sem API exigiu processo de carga controlada e monitorada. A definição de responsáveis pelos dados foi necessária para sustentar os painéis. A adoção aumentou quando os usuários participaram da definição das regras e do desenho das telas. Classificação | Público | Versão | 1.0 Data do documento | 20/02/2026 | Responsável | Laura Medeiros — Gerente de Contas (fictícia) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica Aviso: todos os nomes, empresas, pessoas, sistemas, métricas, datas e resultados deste documento são fictícios e foram criados exclusivamente para demonstrar o PROSPECT-LLM. Indicador | Antes | Depois | Observação Preparação do relatório mensal | 2 dias úteis | 3 horas | Medição interna do cliente fictício. Registros com divergência na amostra | 18% | 5% | Amostra de 1.200 registros. Tempo semanal de consolidação | 11 horas | 1 hora | Média da equipe responsável."
+    },
+    {
+      "id": "bbc90a09871eca8f9e44013776213ea926a1deccd47e6ed3ce729e6829aeece6:2",
+      "document_id": "bbc90a09871eca8f9e44013776213ea926a1deccd47e6ed3ce729e6829aeece6",
+      "filename": "03_PUBLICO_Case_Autorizado_Solare_Energia.docx",
+      "classificacao": "publico",
+      "text": "do cliente fictício. Registros com divergência na amostra | 18% | 5% | Amostra de 1.200 registros. Tempo semanal de consolidação | 11 horas | 1 hora | Média da equipe responsável. Fontes com responsável definido | 2 de 6 | 6 de 6 | Responsabilidade formalizada. Limite de interpretação: Os resultados deste case são específicos do contexto fictício descrito. Não devem ser usados como promessa para outro cliente sem diagnóstico, linha de base e validação."
+    },
+    {
+      "id": "9a9e6c48946fe99b6ca580a9c2ed1342eaf65ed3ac5ae9ba0d10a4160c882226:0",
+      "document_id": "9a9e6c48946fe99b6ca580a9c2ed1342eaf65ed3ac5ae9ba0d10a4160c882226",
+      "filename": "04_INTERNO_FAQ_Tecnica_e_Limites_NexaGrid.docx",
+      "classificacao": "publico",
+      "text": "FAQ Técnica e Limites de Entrega Respostas frequentes sobre integrações, dados, segurança, nuvem e serviços gerenciados 1. Perguntas e respostas 1. A NexaGrid integra qualquer sistema? Não. A viabilidade depende de API, acesso a banco, arquivos exportáveis, mensageria, documentação e autorização do fornecedor. Sistemas sem interface podem exigir alternativa controlada ou não ser integráveis. 2. O RAG ou a IA podem acessar dados pessoais livremente? Não. Dados devem ser minimizados, classificados e processados em ambiente autorizado. Informações sensíveis não devem ser enviadas a serviços em nuvem sem base legal, contrato e controle. 3. É possível garantir redução de custos? Não antes de definir linha de base, escopo, hipóteses e métricas. O diagnóstico pode estimar potencial, mas a confirmação depende de piloto e medição. 4. O serviço inclui operação 24x7? Somente quando o módulo de suporte 24x7 é contratado, com criticidade, canais, escalonamento e níveis de serviço definidos. 5. A NexaGrid atua diretamente em SCADA e equipamentos de campo? A empresa integra sistemas corporativos a gateways e interfaces autorizadas. Não altera firmware, lógica de proteção ou equipamentos de campo. 6. Como são tratadas aplicações legadas? Por avaliação de criticidade, dependências, interfaces, testes e estratégia de modernização incremental. Substituição total não é presumida."
+    },
+    {
+      "id": "9a9e6c48946fe99b6ca580a9c2ed1342eaf65ed3ac5ae9ba0d10a4160c882226:1",
+      "document_id": "9a9e6c48946fe99b6ca580a9c2ed1342eaf65ed3ac5ae9ba0d10a4160c882226",
+      "filename": "04_INTERNO_FAQ_Tecnica_e_Limites_NexaGrid.docx",
+      "classificacao": "publico",
+      "text": ". Como são tratadas aplicações legadas? Por avaliação de criticidade, dependências, interfaces, testes e estratégia de modernização incremental. Substituição total não é presumida. 7. O sistema de BI atual precisa ser substituído? Não necessariamente. O problema pode estar em fontes, qualidade, regras, integração ou governança. A ferramenta só é avaliada após o processo e os dados. 8. Como evitar dependência do fornecedor? Com documentação, repositórios do cliente, padrões abertos, transferência de conhecimento, governança de mudanças e plano de saída. 9. Onde os dados podem ser armazenados? A região e o provedor dependem dos requisitos contratuais, regulatórios e técnicos. Preferências de residência de dados devem ser confirmadas. 10. Como é feita a segurança de acesso? Por identidade corporativa, SSO, MFA, perfis mínimos, segregação de funções, registros de auditoria e revisão periódica. 2. Perguntas obrigatórias antes de uma proposta Quais sistemas, fontes e integrações estão no escopo? Quais dados são pessoais, confidenciais ou regulados? Quais métricas atuais podem formar a linha de base? Quem decide, quem aprova tecnicamente e quem usa a solução? Quais janelas de mudança e indisponibilidade são aceitáveis? Quais capacidades internas o cliente possui para operar a solução? Qual é o prazo decisório e existe orçamento ou processo de aprovação definido?"
+    },
+    {
+      "id": "9a9e6c48946fe99b6ca580a9c2ed1342eaf65ed3ac5ae9ba0d10a4160c882226:2",
+      "document_id": "9a9e6c48946fe99b6ca580a9c2ed1342eaf65ed3ac5ae9ba0d10a4160c882226",
+      "filename": "04_INTERNO_FAQ_Tecnica_e_Limites_NexaGrid.docx",
+      "classificacao": "publico",
+      "text": "indisponibilidade são aceitáveis? Quais capacidades internas o cliente possui para operar a solução? Qual é o prazo decisório e existe orçamento ou processo de aprovação definido? Classificação | Interno não sensível | Versão | 2026.2 Data do documento | 05/03/2026 | Responsável | Comitê Técnico NexaGrid (fictício) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica Aviso: todos os nomes, empresas, pessoas, sistemas, métricas, datas e resultados deste documento são fictícios e foram criados exclusivamente para demonstrar o PROSPECT-LLM. Uso no framework: Este documento deve ser recuperado para limitar recomendações e gerar perguntas de confirmação. Ele não substitui avaliação técnica específica."
+    },
+    {
+      "id": "56d6f16acd45d70b5807ef025cf516a38a4327fa849f428d5c6a4c26ade30ecd:0",
+      "document_id": "56d6f16acd45d70b5807ef025cf516a38a4327fa849f428d5c6a4c26ade30ecd",
+      "filename": "05_INTERNO_Proposta_Modelo_Integracao_e_Dados.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "Proposta-Modelo — Programa de Integração e Dados Estrutura padrão de escopo, entregáveis, premissas, exclusões e critérios de aceite 1. Objetivo do programa Estruturar e implementar uma camada de integração e dados que reduza consolidações manuais, melhore rastreabilidade e permita evolução controlada de indicadores e processos digitais. 2. Fases e entregáveis 3. Premissas O cliente indicará responsáveis técnicos e de negócio para cada fonte. Acesso a ambientes e documentação será fornecido conforme cronograma. Dados pessoais serão anonimizados ou tratados em ambiente autorizado. Mudanças de escopo serão registradas e avaliadas. Métricas de resultado serão definidas com linha de base antes do piloto. 4. Exclusões padrão Compra de licenças, infraestrutura ou hardware não descritos. Alterações em firmware ou equipamentos industriais. Migração completa de sistemas não inventariados. Suporte 24x7 sem contratação específica. Garantia de redução de custos ou aumento de receita sem medição validada. 5. Critérios de aceite 6. Informações ainda necessárias Sistemas e interfaces disponíveis. Volumes, frequências e períodos de retenção. Requisitos de segurança e residência de dados. Janelas de mudança e criticidade dos processos. Participantes da decisão, orçamento e prazo de contratação. Classificação | Interno não sensível | Versão | 3.0"
+    },
+    {
+      "id": "56d6f16acd45d70b5807ef025cf516a38a4327fa849f428d5c6a4c26ade30ecd:1",
+      "document_id": "56d6f16acd45d70b5807ef025cf516a38a4327fa849f428d5c6a4c26ade30ecd",
+      "filename": "05_INTERNO_Proposta_Modelo_Integracao_e_Dados.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "residência de dados. Janelas de mudança e criticidade dos processos. Participantes da decisão, orçamento e prazo de contratação. Classificação | Interno não sensível | Versão | 3.0 Data do documento | 12/03/2026 | Responsável | Escritório de Projetos NexaGrid (fictício) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica Aviso: todos os nomes, empresas, pessoas, sistemas, métricas, datas e resultados deste documento são fictícios e foram criados exclusivamente para demonstrar o PROSPECT-LLM. Orientação: Este documento é um modelo. Não contém preços, nomes de clientes ou promessas e deve ser adaptado após diagnóstico. Fase | Duração indicativa | Entregáveis Descoberta e diagnóstico | 3 semanas | Mapa de processos, inventário de fontes, riscos, lacunas, linha de base e critérios de prioridade. Arquitetura e planejamento | 2 semanas | Arquitetura-alvo, backlog, plano de ondas, requisitos de segurança e critérios de aceite. Piloto controlado | 8 semanas | Integrações prioritárias, regras de qualidade, painel piloto, testes, documentação e treinamento inicial. Expansão | 12 semanas ou por ondas | Novas fontes, automações, painéis, gestão da mudança e transferência de conhecimento. Operação assistida | 3 meses | Monitoramento, correções, métricas de adoção, runbooks e plano de sustentação. Critério | Evidência de aceite"
+    },
+    {
+      "id": "56d6f16acd45d70b5807ef025cf516a38a4327fa849f428d5c6a4c26ade30ecd:2",
+      "document_id": "56d6f16acd45d70b5807ef025cf516a38a4327fa849f428d5c6a4c26ade30ecd",
+      "filename": "05_INTERNO_Proposta_Modelo_Integracao_e_Dados.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "udança e transferência de conhecimento. Operação assistida | 3 meses | Monitoramento, correções, métricas de adoção, runbooks e plano de sustentação. Critério | Evidência de aceite Integração | Fluxo executado com sucesso nos cenários acordados e registro de falhas. Qualidade de dados | Regras aplicadas, exceções identificadas e responsáveis definidos. Rastreabilidade | Origem, transformação e versão dos dados consultáveis. Segurança | Perfis, autenticação, registros e testes acordados. Adoção | Usuários treinados, documentação entregue e uso piloto observado. Desempenho | Tempos e volumes compatíveis com os limites definidos."
+    },
+    {
+      "id": "1b0a0768b116714eacb7ae2cd4ed05356aa78e5c06f91239dedaf817ccb1b842:0",
+      "document_id": "1b0a0768b116714eacb7ae2cd4ed05356aa78e5c06f91239dedaf817ccb1b842",
+      "filename": "06_INTERNO_Matriz_Objeções_e_Perguntas_Comerciais.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "Matriz de Objeções e Perguntas Comerciais Objeções recorrentes, riscos de interpretação e perguntas consultivas recomendadas 1. Matriz 2. Regras para perguntas Começar pelo processo e pelo impacto, não pela solução. Usar linguagem hipotética quando a informação não estiver confirmada. Evitar perguntas que já contenham a resposta desejada. Separar o que é fato, inferência e lacuna. Vincular cada pergunta a uma finalidade diagnóstica. Registrar a resposta e atualizar a qualificação da oportunidade. Classificação | Interno não sensível | Versão | 2026.1 Data do documento | 18/03/2026 | Responsável | Equipe de Pré-vendas NexaGrid (fictícia) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica Aviso: todos os nomes, empresas, pessoas, sistemas, métricas, datas e resultados deste documento são fictícios e foram criados exclusivamente para demonstrar o PROSPECT-LLM. Objeção | Risco de resposta inadequada | Pergunta consultiva | Direção possível “Já temos BI.” | Tratar BI como sinônimo de governança e integração. | Como as fontes, regras e responsáveis pelos indicadores estão organizados hoje? | DataFlow Analytics ou integração, conforme diagnóstico."
+    },
+    {
+      "id": "1b0a0768b116714eacb7ae2cd4ed05356aa78e5c06f91239dedaf817ccb1b842:1",
+      "document_id": "1b0a0768b116714eacb7ae2cd4ed05356aa78e5c06f91239dedaf817ccb1b842",
+      "filename": "06_INTERNO_Matriz_Objeções_e_Perguntas_Comerciais.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "omo sinônimo de governança e integração. | Como as fontes, regras e responsáveis pelos indicadores estão organizados hoje? | DataFlow Analytics ou integração, conforme diagnóstico. “Não podemos parar a operação.” | Prometer implantação sem indisponibilidade. | Quais processos são críticos, quais janelas existem e como mudanças são aprovadas? | Arquitetura incremental e plano de transição. “A segurança não permite nuvem.” | Confrontar a política sem entender requisitos. | Quais dados e controles motivam a restrição e quais ambientes são aprovados? | Arquitetura compatível com requisitos; não presumir nuvem pública. “Integração sempre vira projeto infinito.” | Minimizar dependências de legados. | Quais integrações têm maior impacto e quais interfaces já estão documentadas? | Piloto priorizado e governança de backlog. “Precisamos de preço antes do diagnóstico.” | Fornecer preço fechado sem escopo. | Qual faixa de decisão é necessária agora e quais informações faltam para estimar com segurança? | Faixa preliminar com premissas explícitas, quando permitido. “Não queremos depender do fornecedor.” | Responder apenas com cláusula contratual. | Quais capacidades precisam permanecer com a equipe interna e como será feita a transferência? | Documentação, padrões abertos e plano de saída."
+    },
+    {
+      "id": "1b0a0768b116714eacb7ae2cd4ed05356aa78e5c06f91239dedaf817ccb1b842:2",
+      "document_id": "1b0a0768b116714eacb7ae2cd4ed05356aa78e5c06f91239dedaf817ccb1b842",
+      "filename": "06_INTERNO_Matriz_Objeções_e_Perguntas_Comerciais.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "er apenas com cláusula contratual. | Quais capacidades precisam permanecer com a equipe interna e como será feita a transferência? | Documentação, padrões abertos e plano de saída. “Os usuários não aderem aos sistemas.” | Concluir que o problema é resistência cultural. | Quais tarefas levam os usuários a buscar planilhas ou caminhos paralelos? | Pesquisa, processo, integração e UX. “Ainda não existe orçamento.” | Encerrar sem avaliar impacto e prazo. | Que evento ou consequência pode levar o tema à priorização e quem participa da decisão? | Nutrição ou aprofundamento, conforme impacto e urgência."
+    },
+    {
+      "id": "d62e6c656f511068467ad93897e8d925c1dd86870aa4aabab4d46aa06c477071:0",
+      "document_id": "d62e6c656f511068467ad93897e8d925c1dd86870aa4aabab4d46aa06c477071",
+      "filename": "07_INTERNO_Diagnostico_Preliminar_Aurora_Energia.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "Diagnóstico Preliminar — Aurora Energia Integrada S.A. Levantamento interno de sinais, fatos confirmados, inferências e lacunas para preparação comercial 1. Perfil contextual 2. Fatos confirmados 3. Inferências ainda não confirmadas 4. Lacunas prioritárias 5. Hipóteses iniciais por dimensão Classificação | Interno não sensível | Versão | 0.9 Data do documento | 10/07/2026 | Responsável | Daniela Rocha — Analista de Pré-vendas (fictícia) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica Aviso: todos os nomes, empresas, pessoas, sistemas, métricas, datas e resultados deste documento são fictícios e foram criados exclusivamente para demonstrar o PROSPECT-LLM. Prospect fictício: Aurora Energia Integrada S.A. é uma empresa criada exclusivamente para demonstração. Não representa organização real. Campo | Informação fictícia | Fonte Empresa | Aurora Energia Integrada S.A. | Site institucional fictício Setor | Geração e operação de energia renovável | Site institucional fictício Porte | Grande; 9 unidades em 4 estados | Relatório institucional fictício 2025 Localização | Sede em Recife/PE; operação no Nordeste e Sudeste | Site institucional fictício Interlocutor | Marcos Vale | Convite de reunião fictício Cargo | Gerente de Tecnologia | Convite de reunião fictício"
+    },
+    {
+      "id": "d62e6c656f511068467ad93897e8d925c1dd86870aa4aabab4d46aa06c477071:1",
+      "document_id": "d62e6c656f511068467ad93897e8d925c1dd86870aa4aabab4d46aa06c477071",
+      "filename": "07_INTERNO_Diagnostico_Preliminar_Aurora_Energia.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "E; operação no Nordeste e Sudeste | Site institucional fictício Interlocutor | Marcos Vale | Convite de reunião fictício Cargo | Gerente de Tecnologia | Convite de reunião fictício Momento | Integração de duas plantas solares adquiridas em 2026 | Comunicado institucional fictício ID | Fato | Fonte | Data F1 | A empresa opera 9 unidades em quatro estados. | Relatório institucional fictício 2025 | 20/03/2026 F2 | Duas plantas solares foram adquiridas e devem ser integradas à operação. | Comunicado institucional fictício | 15/05/2026 F3 | O relatório executivo mensal é consolidado por planilhas enviadas pelas unidades. | Reunião discovery fictícia | 08/07/2026 F4 | As unidades utilizam padrões diferentes para identificar ativos. | Reunião discovery fictícia | 08/07/2026 F5 | A empresa usa ERP Orbe 2018, CRM FluxoOne e sistema de manutenção SIGMA-M. | Reunião discovery fictícia | 08/07/2026 F6 | Não existe catálogo central de dados nem indicador formal de qualidade. | Reunião discovery fictícia | 08/07/2026 F7 | A diretoria solicitou um roadmap de integração até outubro de 2026. | Ata interna fictícia | 08/07/2026 F8 | SSO e trilhas de auditoria são requisitos de segurança. | Ata interna fictícia | 08/07/2026 F9 | Usuários exportam informações para planilhas devido à dificuldade de comparar dados entre sistemas. | Reunião discovery fictícia | 08/07/2026"
+    },
+    {
+      "id": "d62e6c656f511068467ad93897e8d925c1dd86870aa4aabab4d46aa06c477071:2",
+      "document_id": "d62e6c656f511068467ad93897e8d925c1dd86870aa4aabab4d46aa06c477071",
+      "filename": "07_INTERNO_Diagnostico_Preliminar_Aurora_Energia.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "Ata interna fictícia | 08/07/2026 F9 | Usuários exportam informações para planilhas devido à dificuldade de comparar dados entre sistemas. | Reunião discovery fictícia | 08/07/2026 ID | Inferência | Evidências relacionadas | Confirmação necessária I1 | A aquisição pode aumentar o risco de inconsistência de cadastros e indicadores. | F2, F4 e F6 | Como os dados das plantas adquiridas serão mapeados e reconciliados? I2 | A consolidação manual pode atrasar decisões e aumentar retrabalho. | F3 e F9 | Qual é o tempo gasto, quantas pessoas participam e quais erros ocorrem? I3 | A ausência de catálogo pode limitar a rastreabilidade dos números executivos. | F3 e F6 | Quais indicadores não possuem origem e responsável claramente definidos? I4 | A dificuldade de comparação pode ser causada por integração, regras e experiência de uso. | F4, F5 e F9 | O principal obstáculo é acesso, interface, regra de negócio ou disponibilidade de dados? ID | Lacuna | Por que importa L1 | Disponibilidade e documentação de APIs dos sistemas atuais. | Define viabilidade e esforço de integração. L2 | Volume e frequência dos dados. | Afeta arquitetura, desempenho e custo. L3 | Tempo atual de consolidação e custo do retrabalho. | Necessário para linha de base e priorização. L4 | Orçamento e modelo de contratação. | Afeta viabilidade e próximo passo."
+    },
+    {
+      "id": "d62e6c656f511068467ad93897e8d925c1dd86870aa4aabab4d46aa06c477071:3",
+      "document_id": "d62e6c656f511068467ad93897e8d925c1dd86870aa4aabab4d46aa06c477071",
+      "filename": "07_INTERNO_Diagnostico_Preliminar_Aurora_Energia.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "L3 | Tempo atual de consolidação e custo do retrabalho. | Necessário para linha de base e priorização. L4 | Orçamento e modelo de contratação. | Afeta viabilidade e próximo passo. L5 | Patrocinador executivo e autoridade do interlocutor. | Afeta decisão e governança. L6 | Janelas de mudança e criticidade operacional. | Afeta plano de implantação. L7 | Requisitos de residência e retenção de dados. | Afeta arquitetura e conformidade. L8 | Critérios de sucesso para um piloto de 90 dias. | Necessário para escopo e aceite. Dimensão | Hipótese preliminar | Confiança inicial Técnica | Integrações limitadas e padrões divergentes podem dificultar a incorporação das novas plantas. | Média Operacional | Consolidação manual e exportações para planilhas podem gerar retrabalho e atrasos. | Alta Estratégica | A ausência de catálogo e roadmap pode comprometer a integração das aquisições. | Alta Financeira | Há custo potencial de retrabalho, mas não existe linha de base confirmada. | Baixa Experiência | A comparação entre sistemas pode exigir caminhos paralelos devido a usabilidade, acesso ou fragmentação. | Média Qualificação preliminar: APROFUNDAR. Há impacto potencial e prazo organizacional, mas orçamento, autoridade, viabilidade técnica e linha de base ainda precisam ser confirmados."
+    },
+    {
+      "id": "070173d27774d3928331c9b57009d688542f99253c6ea38cbde41c82dcc0cfb2:0",
+      "document_id": "070173d27774d3928331c9b57009d688542f99253c6ea38cbde41c82dcc0cfb2",
+      "filename": "08_INTERNO_Ata_Reuniao_Discovery_Aurora_Energia.txt",
+      "classificacao": "interno_nao_sensivel",
+      "text": "AMBIENTE DE DEMONSTRAÇÃO — DADOS 100% FICTÍCIOS Ata resumida de reunião de descoberta — Aurora Energia Integrada S.A. Data fictícia: 08/07/2026 Classificação sugerida: Interno não sensível Participantes fictícios: - Helena Duarte — Diretora de Operações - Marcos Vale — Gerente de Tecnologia - Júlia Nunes — Coordenadora de PMO - Daniela Rocha — Analista de Pré-vendas da NexaGrid Objetivo da reunião: Compreender o processo de consolidação de informações e os desafios de integração das duas plantas solares adquiridas em 2026. Resumo das declarações confirmadas: 1. A empresa possui nove unidades operacionais em quatro estados. 2. O relatório executivo mensal é montado a partir de planilhas enviadas pelas unidades. 3. A consolidação leva normalmente entre sete e dez dias úteis, incluindo correções e validações. 4. As unidades utilizam padrões diferentes para identificar ativos e centros de custo. 5. Os sistemas citados foram ERP Orbe 2018, CRM FluxoOne e SIGMA-M para manutenção. 6. Não existe catálogo central de dados nem indicador formal de qualidade das fontes. 7. Alguns usuários exportam informações para planilhas porque não conseguem comparar dados entre os sistemas no fluxo atual. 8. A diretoria solicitou um roadmap de integração até outubro de 2026. 9. A área de segurança exige SSO e trilhas de auditoria."
+    },
+    {
+      "id": "070173d27774d3928331c9b57009d688542f99253c6ea38cbde41c82dcc0cfb2:1",
+      "document_id": "070173d27774d3928331c9b57009d688542f99253c6ea38cbde41c82dcc0cfb2",
+      "filename": "08_INTERNO_Ata_Reuniao_Discovery_Aurora_Energia.txt",
+      "classificacao": "interno_nao_sensivel",
+      "text": "uem comparar dados entre os sistemas no fluxo atual. 8. A diretoria solicitou um roadmap de integração até outubro de 2026. 9. A área de segurança exige SSO e trilhas de auditoria. 10. Ainda não existe orçamento aprovado. A equipe precisa primeiro de uma proposta de abordagem e faixas de esforço. 11. O comitê de decisão deverá incluir Operações, TI, Finanças e Suprimentos. 12. A preferência inicial é realizar um piloto de até 90 dias em duas unidades. Experiência anterior relatada: Um piloto anterior não avançou porque o fornecedor começou com uma demonstração de ferramenta antes de mapear o processo. A equipe espera que a próxima abordagem comece pelo diagnóstico, pelas fontes e pelos critérios de sucesso. Lacunas registradas: - APIs e formatos de exportação disponíveis. - Volume e frequência dos dados. - Janelas de mudança e criticidade dos processos. - Responsável executivo pelo programa. - Linha de base de tempo, erros e esforço manual. - Critérios de sucesso do piloto. - Requisitos de residência e retenção de dados. Próximo passo combinado: Realizar uma sessão técnica de 90 minutos para mapear o fluxo do relatório executivo, as fontes, os responsáveis e as interfaces disponíveis. Nenhuma solução foi escolhida ou prometida nesta reunião. Aviso: documento integralmente fictício, criado para demonstração do PROSPECT-LLM."
+    },
+    {
+      "id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d:0",
+      "document_id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d",
+      "filename": "09_Demonstracao_PROSPECT_LLM.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "Guia de Demonstração do PROSPECT-LLM Passo a passo, documentos sugeridos, dados de contexto e resultados esperados 1. Objetivo da demonstração Demonstrar o fluxo completo: governança das fontes, coleta de contexto, recuperação de evidências, formulação de hipóteses, geração de perguntas, qualificação e validação humana. Os resultados da IA podem variar; o objetivo é avaliar estrutura, rastreabilidade e qualidade diagnóstica, não reproduzir frases idênticas. 2. Ordem recomendada de indexação 3. Valores sugeridos para a tela Coleta de contexto 4. Itens contextuais sugeridos 5. Resultados esperados — sem garantia de redação idêntica 6. Critérios para validação humana 7. Cenário de aprovação recomendado Ajuste perguntas que presumam solução ou problema não confirmado. Rejeite qualquer recomendação de substituição total de sistemas sem diagnóstico. Remova promessas baseadas no case Solare; o case é apenas referência contextual. Aprove o roteiro apenas quando as fontes e lacunas estiverem visíveis. Registre como próximo passo uma sessão técnica para mapear fluxo, fontes, interfaces e critérios de piloto. Classificação | Interno não sensível | Versão | 1.0 Data do documento | 28/07/2026 | Responsável | Equipe de Pesquisa PROSPECT-LLM (fictícia) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica"
+    },
+    {
+      "id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d:1",
+      "document_id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d",
+      "filename": "09_Demonstracao_PROSPECT_LLM.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": ".0 Data do documento | 28/07/2026 | Responsável | Equipe de Pesquisa PROSPECT-LLM (fictícia) Empresa | NexaGrid Tecnologia Ltda. (fictícia) | Uso | Demonstração acadêmica e técnica Aviso: todos os nomes, empresas, pessoas, sistemas, métricas, datas e resultados deste documento são fictícios e foram criados exclusivamente para demonstrar o PROSPECT-LLM. Arquivo | Classificação no sistema | Função no RAG 01_PUBLICO_Apresentacao_Institucional_NexaGrid.docx | Público | Posicionamento, segmentos, método e limites gerais. 02_PUBLICO_Catalogo_Servicos_NexaGrid_2026.docx | Público | Serviços, entregáveis, entradas e critérios de aderência. 03_PUBLICO_Case_Autorizado_Solare_Energia.docx | Público | Exemplo de energia, integração, dados e resultados específicos. 04_INTERNO_FAQ_Tecnica_e_Limites_NexaGrid.docx | Interno não sensível | Restrições técnicas, segurança e perguntas obrigatórias. 05_INTERNO_Proposta_Modelo_Integracao_e_Dados.docx | Interno não sensível | Fases, premissas, exclusões e critérios de aceite. 06_INTERNO_Matriz_Objeções_e_Perguntas_Comerciais.docx | Interno não sensível | Perguntas consultivas e tratamento de objeções. 07_INTERNO_Diagnostico_Preliminar_Aurora_Energia.docx | Interno não sensível | Fatos, inferências, lacunas e hipóteses do prospect. 08_INTERNO_Ata_Reuniao_Discovery_Aurora_Energia.txt | Interno não sensível | Declarações confirmadas e próximo passo."
+    },
+    {
+      "id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d:2",
+      "document_id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d",
+      "filename": "09_Demonstracao_PROSPECT_LLM.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "ensível | Fatos, inferências, lacunas e hipóteses do prospect. 08_INTERNO_Ata_Reuniao_Discovery_Aurora_Energia.txt | Interno não sensível | Declarações confirmadas e próximo passo. Responsável sugerido: Use “Thiago Laurentino — Pesquisador” ou outro nome fictício. Marque a autorização apenas porque estes materiais foram produzidos para demonstração. Campo | Valor sugerido Empresa | Aurora Energia Integrada S.A. Setor | Geração e operação de energia renovável Porte | Grande Localização | Recife/PE; operação em quatro estados Interlocutor | Marcos Vale Cargo ou função | Gerente de Tecnologia; influenciador técnico Tipo | Conteúdo | Fonte | Data fato | A empresa opera 9 unidades em quatro estados. | Relatório institucional fictício 2025 | 20/03/2026 fato | Duas plantas solares adquiridas em 2026 precisam ser integradas. | Comunicado institucional fictício | 15/05/2026 fato | O relatório executivo mensal é consolidado por planilhas. | Ata de reunião discovery fictícia | 08/07/2026 fato | A diretoria solicitou um roadmap de integração até outubro de 2026. | Ata de reunião discovery fictícia | 08/07/2026 inferência | A aquisição pode aumentar o risco de inconsistência de cadastros e indicadores. | Inferência baseada nos fatos anteriores | 08/07/2026 lacuna | Não sabemos quais APIs e formatos de exportação estão disponíveis. | Informação a confirmar |"
+    },
+    {
+      "id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d:3",
+      "document_id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d",
+      "filename": "09_Demonstracao_PROSPECT_LLM.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "dastros e indicadores. | Inferência baseada nos fatos anteriores | 08/07/2026 lacuna | Não sabemos quais APIs e formatos de exportação estão disponíveis. | Informação a confirmar | lacuna | Não existe linha de base confirmada de tempo, erros e custo do retrabalho. | Informação a confirmar | lacuna | Ainda não sabemos quem é o patrocinador executivo e qual é o orçamento. | Informação a confirmar | Artefato | Exemplos de conteúdo esperado Evidências recuperadas | Trechos sobre integrações, catálogo de dados, relatórios manuais, limites técnicos, piloto e SSO. Hipótese estratégica | A ausência de governança e roadmap pode dificultar a integração das aquisições. Hipótese técnica | Interfaces e padrões divergentes podem limitar a integração entre sistemas e unidades. Hipótese operacional | Consolidação por planilhas pode gerar retrabalho, atraso e baixa rastreabilidade. Hipótese financeira | Existe custo potencial de esforço manual, mas faltam métricas e linha de base. Hipótese de experiência | Usuários podem recorrer a planilhas por fragmentação, acesso, regra ou usabilidade. Qualificação | APROFUNDAR: impacto e prazo existem, mas autoridade, orçamento, viabilidade e métricas ainda não foram confirmados. Perguntas | Perguntas sobre processo atual, fontes, APIs, tempo, erros, decisão, critérios do piloto e segurança. Critério | O que verificar"
+    },
+    {
+      "id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d:4",
+      "document_id": "8fc8aa3519fee609f46dd7af19e9c77933adee8328e711a855452d18ebe84c0d",
+      "filename": "09_Demonstracao_PROSPECT_LLM.docx",
+      "classificacao": "interno_nao_sensivel",
+      "text": "e métricas ainda não foram confirmados. Perguntas | Perguntas sobre processo atual, fontes, APIs, tempo, erros, decisão, critérios do piloto e segurança. Critério | O que verificar Fundamentação | Cada hipótese usa evidências ou está identificada como inferência. Aderência ao portfólio | Serviços citados existem no catálogo e respeitam os limites. Qualidade diagnóstica | Perguntas abertas, não indutivas e úteis para confirmar problemas. Proteção de dados | Nenhum dado pessoal, restrito ou desnecessário é exposto. Linguagem comercial | Sem promessas, exageros ou diagnóstico definitivo. Próximo passo | A sessão técnica e os critérios para continuidade estão claros. Resultado da demonstração: O produto final deve ser um roteiro aprovado e rastreável para uma conversa diagnóstica. O sistema não deve gerar proposta comercial fechada nem afirmar que o cliente possui problemas ainda não confirmados."
+    }
+  ]
+}
